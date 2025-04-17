@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primaryColor: hsl(0, 0%, 100%);
+    --color-secondaryColor: hsl(0, 0%, 0%);
+    --color-subTitleColor: hsl(0, 0%, 63%);
+    --color-hoverColor: hsl(0, 0%, 27%);
+}
